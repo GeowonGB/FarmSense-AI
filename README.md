@@ -35,6 +35,8 @@ What makes it useful:
 - OpenWeather(Weather API provider)
 
 ---
+## VIDEO RECORDING
+- https://drive.google.com/file/d/1FCL0KpvE66N3hi1CrXFkECjPyM3Cmt5b/view?usp=sharing
 
 ### How Google AI Was Used
 FarmSense integrates Google’s Gemini API to generate intelligent agricultural recommendations.
