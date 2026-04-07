@@ -50,25 +50,6 @@ A fallback mechanism ensures the system continues to work even if the API fails,
 
 ---
 
-## Proof of Google AI Usage
-Attach screenshots in a `/proof` folder:
-
-![AI Proof](./proof/screenshot1.png)
-
----
-
-## Screenshots
-
-![Screenshot1](./assets/screenshot1.png)  
-![Screenshot2](./assets/screenshot2.png)
-
----
-
-## Demo Video
-Upload your demo video to Google Drive and paste the shareable link here (max 3 minutes):
-
-[Watch Demo](#)
-
 ---
 
 ## Installation Steps
